@@ -1,0 +1,7 @@
+{
+    "peacock.color": "#f9e64f",
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp"
+    }
+}
